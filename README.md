@@ -12,6 +12,8 @@ Web Developer and UI/UX Designer
 * 🤝  I'm open to collaborating on React or UI/UX projects
 * ⚡  Fun fact: I can center a div
 
+
+
 ### Skills
 
 
@@ -33,3 +35,6 @@ Web Developer and UI/UX Designer
 <a href="http://www.github.com/r-Shabab"><img src="https://github-readme-streak-stats.herokuapp.com/?user=r-Shabab&stroke=ffffff&background=0f172a&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/r-Shabab" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-Shabab&langs_count=10&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<p> <img src="https://komarev.com/ghpvc/?username=r-Shabab&label=Profile%20views&color=139E92&style=flat" alt="r-Shabab" /> </p>
+
