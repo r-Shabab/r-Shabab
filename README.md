@@ -7,7 +7,7 @@ Web Developer and UI/UX Designer
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [Shabab.](http://rashidshabab.vercel.app/)
 * ✉️  You can contact me at [raashidshabab@gmail.com](mailto:raashidshabab@gmail.com)
-* 🚀  I'm currently working on [YelpCamp](http://github.com/r-Shabab/YelpCamp.git)
+* 🚀  I'm currently working on [TodoTick](https://github.com/r-Shabab/TodoTick.git)
 * 🧠  I'm learning React, Next.js
 * 🤝  I'm open to collaborating on React or UI/UX projects
 * ⚡  Fun fact: I can center a div
