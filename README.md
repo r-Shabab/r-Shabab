@@ -8,7 +8,7 @@ Web Developer and UI/UX Designer
 * 🖥️  See my portfolio at [Shabab.](http://rashidshabab.vercel.app/)
 * ✉️  You can contact me at [raashidshabab@gmail.com](mailto:raashidshabab@gmail.com)
 * 🚀  I'm currently working on [TodoTick](https://github.com/r-Shabab/TodoTick.git)
-* 🧠  I'm learning React, Next.js
+* 🧠  I'm learning React, JWT, TypeScript
 * 🤝  I'm open to collaborating on React or UI/UX projects
 * ⚡  Fun fact: I can center a div
 
